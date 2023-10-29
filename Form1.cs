@@ -64,7 +64,7 @@ namespace DDragonDownloader_Riot_
 
             saveFilePath = "";
             label1.ForeColor = Color.Lime;
-            label1.Text = "DDRAGON DOWNLOADER BY Díko";
+            label1.Text = "DDRAGON DOWNLOADER BY Diyar";
 
             consoleText.Text += "Mit diesem Programm kann man DDragon Datein von Riot Herunterladen.";
             consoleText.Text += "\nDiese Dateien sind wichtig, da sie ein bestandteil der Api von Riot sind.";
